@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\programs\c++ proj\sfml1\main.cpp(199,56): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\programs\c++ proj\sfml1\main.cpp(199,41): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  sfml1.vcxproj -> D:\programs\c++ proj\sfml1\Debug\sfml1.exe
